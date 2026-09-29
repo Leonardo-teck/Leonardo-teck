@@ -31,28 +31,18 @@
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Tecnologias & Experiência
 
 <div align="center">
 
-**Linguagem**
-
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=58A6FF)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=58A6FF)
-![Maven](https://img.shields.io/badge/Maven-0D1117?style=for-the-badge&logo=apachemaven&logoColor=58A6FF)
-
-**Banco de Dados**
-
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=58A6FF)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)
+| Tecnologia | Nível | Onde apliquei |
+|---|:---:|---|
+| ☕ **Java** | Intermediário | Base da minha formação; POO, coleções, tratamento de exceções |
+| 🌱 **Spring Boot** | Básico aplicado | API REST da **Baozi Store** (Spring Data JPA + MySQL) |
+| 🗄️ **MySQL / SQL** | Básico aplicado | Modelagem e persistência no projeto Baozi Store |
+| 🧰 **Maven** | Básico aplicado | Gerenciamento de dependências dos projetos Java |
+| 🔧 **Git & GitHub** | Intermediário | Versionamento de todos os projetos e do vault de estudos |
+| 📓 **Docker** | Iniciando | Em estudo — próximo passo da minha trilha |
 
 </div>
 
@@ -88,16 +78,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-teck&theme=tokyonight&background=0D1117&stroke=1E3A5F&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="70%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonardo-teck&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-### 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Leonardo-teck&theme=darkhub&no-frame=true&margin-w=10&column=6" width="100%"/>
 
 </div>
 
